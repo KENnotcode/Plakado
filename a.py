@@ -4,6 +4,9 @@ import easyocr
 import re
 import keyboard  # For detecting keypress
 
+
+#test
+
 # Initialize EasyOCR Reader
 reader = easyocr.Reader(['en'])
 
