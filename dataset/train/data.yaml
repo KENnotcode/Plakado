@@ -1,0 +1,13 @@
+train: C:/Users/kenne/Downloads/repos/Plate detection/dataset/train/images
+val: C:/Users/kenne/Downloads/repos/Plate detection/dataset/val/images
+test: C:/Users/kenne/Downloads/repos/Plate detection/dataset/test/images
+
+nc: 1
+names: ['plate']
+
+roboflow:
+  workspace: adrian-dumaop
+  project: otsu
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/adrian-dumaop/otsu/dataset/1
